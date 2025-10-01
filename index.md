@@ -110,14 +110,6 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - Remote Config does not store any of this data or share it with any other entity; it only uses it ephemerally.
   - For more information on the privacy practices of Unity UGS Remote Config, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-## 
-- ## Unity UGS Cloud Diagnostics:
-  - Unity Cloud Diagnostics is a suite of cloud-enabled tools that helps collect and identify potential issues in Unity-built games by gathering crash and exception reports.
-  - Unity Cloud Diagnostics collects data such as crash logs, app diagnostics, other app performance data, and users’ device or other identifiers (Installation ID, IDFV, and IDFA) for analytics purposes.
-  - Data is encrypted in transit.
-  - It is not possible to request the deletion of data.
-  - For more information on the privacy practices of Unity Cloud Diagnostics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
-
 
 # Links to Other Sites:
 Our Service may contain links to other sites that are not operated by us. If you click a third-party link, you will be directed to that third-party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
