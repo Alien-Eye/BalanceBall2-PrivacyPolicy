@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Privacy Policy for Balance Ball 2
-Last updated: [September 20, 2025]
+Last updated: [March 2, 2025]
 
 ### Alien Eye (“us”, “we”, or “our”) operates the Balance Ball 2 mobile application (the “Service”).
 
