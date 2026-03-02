@@ -98,12 +98,12 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - For more information on the privacy practices of Unity Authentication, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
-- ## Google Play Games Services:
-  - Google Play Games Services is a platform that provides a variety of game services, including player identity. We use it with Unity Authentication to authenticate players.
-  - Google Play Games Services collects users’ personal identifiers, analytics data, and diagnostics data for app functionality and analytics.
+- ## Google Play Games:
+  - Google Play Games is a platform that provides a variety of game services, including player identity. We use it with Unity Authentication to authenticate players.
+  - Google Play Games collects users’ personal identifiers, analytics data, and diagnostics data for app functionality and analytics.
   - Data is encrypted in transit.
-  - Users can delete their data for an individual game or delete their account and all associated games' data collected by Google through their [Play Games profile](https://play.google.com/games/profile)
-  - For more information on the privacy practices of Google Play Games Services, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
+  - Users can delete their data for an individual game or delete their account and all associated games' data collected by Google through their [Play Games profile](https://support.google.com/googleplay/answer/9130646?hl=en-EN)
+  - For more information on the privacy practices of Google Play Games, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
 - ## Unity UGS Cloud Save:
