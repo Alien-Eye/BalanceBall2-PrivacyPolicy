@@ -61,7 +61,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - Unity Analytics is a tool that helps us understand player actions, game performance, and usage patterns within our game.
   - Unity Analytics collects data such as approximate Location, usersâ€™ personal identifiers, in-game Interactions and activity, Crash logs, app diagnostics, app performance data, and usersâ€™ device or other identifiers (Installation ID, IDFV, and IDFA) for App functionality and analytics purposes.
   - Data is encrypted in transit.
-  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <strong>Settings > Account & Privacy > Change Analytics Data Collection Consent.</strong>
+  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Account & Privacy > Change Analytics Data Collection Consent.</b>
   - Analytics data collected before revoking consent cannot be deleted.
   - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
@@ -70,7 +70,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - Firebase Analytics is a tool that helps us understand player behavior, game performance, and overall usage patterns within our game.
   - Firebase Analytics collects data such as approximate location, device information, app interactions, session duration, in-game events, app diagnostics, crash and performance data, and device or other identifiers (including App Instance ID and advertising identifiers such as IDFA or GAID where applicable) for app functionality, analytics, and service improvement purposes.
   - Data is encrypted in transit.
-  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <strong>Settings > Account & Privacy > Change Analytics Data Collection Consent.</strong>
+  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Account & Privacy > Change Analytics Data Collection Consent.</b>
   - Analytics data collected before revoking consent cannot be deleted.
   - For more information on the privacy practices of Firebase Analytics, please visit the [Google Privacy Policy website](https://policies.google.com/privacy)
 
