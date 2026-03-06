@@ -61,7 +61,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - Unity Analytics is a tool that helps us understand player actions, game performance, and usage patterns within our game.
   - Unity Analytics collects data such as approximate Location, usersâ€™ personal identifiers, in-game Interactions and activity, Crash logs, app diagnostics, app performance data, and usersâ€™ device or other identifiers (Installation ID, IDFV, and IDFA) for App functionality and analytics purposes.
   - Data is encrypted in transit.
-  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Account & Privacy > Change Analytics Data Collection Consent.</b>
+  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Privacy > Change Analytics Data Collection Consent.</b>
   - Analytics data collected before revoking consent cannot be deleted.
   - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
@@ -70,7 +70,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - Firebase Analytics is a tool that helps us understand player behavior, game performance, and overall usage patterns within our game.
   - Firebase Analytics collects data such as App-instance ID, Advertising ID, Masked IP address, In-app purchases and subscriptions, and App lifecycle events for analytics, advertising, and service improvement purposes.
   - Data is encrypted in transit.
-  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Account & Privacy > Change Analytics Data Collection Consent.</b>
+  - Analytics data collection is an optional (Opt-Out) service. Users can change their analytics data collection consent at any time by navigating to <b>Settings > Privacy > Change Analytics Data Collection Consent.</b>
   - Analytics data collected before revoking consent cannot be deleted.
   - For more information on the privacy practices of Firebase Analytics, please visit the [Google Privacy Policy website](https://policies.google.com/privacy)
 
@@ -81,6 +81,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - AdMob collects IP addresses, user interactions, diagnostic information, and device and account identifiers for advertising, analytics, and fraud prevention purposes.
   - Data is encrypted in transit.
   - The Advertising ID can be reset or deleted by users using ad ID controls in the Android settings menu. For more information, visit the [Advertising ID help website.](https://support.google.com/googleplay/android-developer/answer/6048248#zippy=%2Creset-your-devices-advertising-id%2Cdelete-your-devices-advertising-id)
+  - Users can change their personalized ads consent at any time by navigating to <b>Settings > Privacy > Change Personalized Ads Consent.</b>
   - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
