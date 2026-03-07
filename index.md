@@ -132,7 +132,13 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - Data cannot be deleted once collected.
   - For more information on the privacy practices of Unity Diagnostics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+- ## Firebase Crashlytics:
+  - Firebase Crashlytics is a crash reporting service that helps us detect, diagnose, and fix stability issues within our game. It provides real-time crash reports and diagnostic information that help us improve game performance and reliability.
+  - Firebase Crashlytics collects data such as crash logs, stack traces, device model, operating system version, app version, installation identifiers, and other diagnostic information related to application crashes and errors.
+  - Data is encrypted in transit.
+  - Crash reporting data collection is an optional (Opt-Out) service. Users can change their crash reporting data collection consent at any time by navigating to <b>Settings > Privacy > Change Analytics Data Collection Consent.</b>
+  - Crash data collected before revoking consent cannot be deleted.
+  - For more information on the privacy practices of Firebase Crashlytics, please visit the [Google Privacy Policy website](https://policies.google.com/privacy)
 
 
 # Links to Other Sites:
