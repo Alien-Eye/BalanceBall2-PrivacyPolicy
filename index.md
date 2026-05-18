@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Privacy Policy for Balance Ball 2
-Last updated: [March 2, 2026]
+Last updated: [May 18, 2026]
 
 ### Alien Eye (“us”, “we”, or “our”) operates the Balance Ball 2 mobile application (the “Service”).
 
@@ -19,7 +19,7 @@ While using our Service, certain personally identifiable information may be coll
 *   User’s personal identifiers.
 *   IP address.
 *   Approximate Location.
-*   User’s device or other identifiers (Installation ID, IDFV, and IDFA).
+*   User’s device ID or other identifiers (Installation ID, IDFV, and IDFA).
 *   User’s purchase history.
 *   In-game interactions and activity.
 *   Crash logs, app diagnostics, and app performance data.
@@ -28,7 +28,6 @@ While using our Service, certain personally identifiable information may be coll
 # Use of Data:
 Alien Eye uses the collected data for various purposes:
 *   To provide and maintain our Service.
-*   To provide customer support.
 *   To gather analysis or valuable information so that we can improve our Service.
 *   To monitor the usage of our Service.
 *   To detect, prevent, and address technical issues.
@@ -76,9 +75,10 @@ We may employ third-party companies and individuals to facilitate our Service (�
 
 
 
-- ## Google AdMob (Mobile Ads SDK):
+- ## Google AdMob:
   - Google AdMob is a mobile advertising platform that allows us to monetize our game through in-game ads.
-  - AdMob collects IP addresses, user interactions, diagnostic information, and device and account identifiers for advertising, analytics, and fraud prevention purposes.
+  - We use AdMob mediation to serve ads from multiple advertising partners. This means ads in the app may be provided not only by Google but also by third-party ad networks, including Unity Ads, and Liftoff, among others.
+  - These advertising partners may collect and process certain data such as IP address, device identifiers (including Advertising ID), user interactions, and diagnostic information for purposes including ad delivery, personalization, analytics, and fraud prevention.
   - Data is encrypted in transit.
   - The Advertising ID can be reset or deleted by users using ad ID controls in the Android settings menu. For more information, visit the [Advertising ID help website.](https://support.google.com/googleplay/android-developer/answer/6048248#zippy=%2Creset-your-devices-advertising-id%2Cdelete-your-devices-advertising-id)
   - Users can change their personalized ads consent at any time by navigating to <b>Settings > Privacy > Change Personalized Ads Consent.</b>
@@ -95,7 +95,7 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - Unity Authentication is a service that helps us identify players, enabling us to provide services like Cloud Save and Remote Configurations.
   - Unity Authentication collects users’ personal identifiers for app functionality and account management.
   - Data is encrypted in transit.
-  - Users' game profiles and their associated data cannot be deleted.
+  - Users' Unity game profile and their associated data cannot be deleted.
   - For more information on the privacy practices of Unity Authentication, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
@@ -112,7 +112,7 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - Unity Cloud Save requires authentication using the Unity UGS Authentication service.
   - Unity Cloud Save collects the user’s personal identifiers and the user’s device or other identifiers (Player ID) for app functionality.
   - Data is encrypted in transit.
-  - Users' game profiles and their associated data cannot be deleted.
+  - Users' Unity game profile and their associated data cannot be deleted.
   - For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
@@ -128,7 +128,6 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - Unity Diagnostics is a tool that helps us monitor and improve the stability, performance, and reliability of our game.
   - Unity Diagnostics collects data such as device information, operating system details, hardware specifications, crash logs, exception reports, performance metrics, and app usage patterns. This information is used solely for app functionality, diagnostics, and performance monitoring purposes.
   - Data is encrypted in transit.
-  - Collected data is anonymous and cannot be used to identify individual users.
   - Data cannot be deleted once collected.
   - For more information on the privacy practices of Unity Diagnostics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
@@ -136,8 +135,7 @@ We may employ third-party companies and individuals to facilitate our Service (�
   - Firebase Crashlytics is a crash reporting service that helps us detect, diagnose, and fix stability issues within our game. It provides real-time crash reports and diagnostic information that help us improve game performance and reliability.
   - Firebase Crashlytics collects data such as crash logs, stack traces, device model, operating system version, app version, installation identifiers, and other diagnostic information related to application crashes and errors.
   - Data is encrypted in transit.
-  - Crash reporting data collection is an optional (Opt-Out) service. Users can change their crash reporting data collection consent at any time by navigating to <b>Settings > Privacy > Change Analytics Data Collection Consent.</b>
-  - Crash data collected before revoking consent cannot be deleted.
+  - Data cannot be deleted once collected.
   - For more information on the privacy practices of Firebase Crashlytics, please visit the [Google Privacy Policy website](https://policies.google.com/privacy)
 
 
