@@ -81,7 +81,7 @@ We may employ third-party companies and individuals to facilitate our Service (â
   - These advertising partners may collect and process certain data such as IP address, device identifiers (including Advertising ID), user interactions, and diagnostic information for purposes including ad delivery, personalization, analytics, and fraud prevention.
   - Data is encrypted in transit.
   - The Advertising ID can be reset or deleted by users using ad ID controls in the Android settings menu. For more information, visit the [Advertising ID help website.](https://support.google.com/googleplay/android-developer/answer/6048248#zippy=%2Creset-your-devices-advertising-id%2Cdelete-your-devices-advertising-id)
-  - Users can change their personalized ads consent at any time by navigating to <b>Settings > Privacy > Change Personalized Ads Consent.</b>
+  - If applicable under your regionâ€™s privacy regulations, you can change your personalized advertising consent at any time by navigating to <b>Settings > Privacy > Change Personalized Ads Consent.</b>
   - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
